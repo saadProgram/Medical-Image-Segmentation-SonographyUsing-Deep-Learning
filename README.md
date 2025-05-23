@@ -1,7 +1,3 @@
-Here is the exact same text as provided in your document, with no changes to content, formatting, or structure:
-
----
-
 **Report on Medical Image Segmentation Using Deep Learning**
 
 **1. Introduction**
@@ -232,7 +228,3 @@ return \" \".join(str(x) for x in runs) if len(runs) \> 0 else \"\"
 This project demonstrated **deep learning-based medical image segmentation** using U-Net. The model performed well on the training set but required **manual debugging** to fix submission errors. **Future work** can focus on **better regularization, dynamic thresholding, and improved architectures** to enhance segmentation quality.
 
 🔥 **This was a great learning experience in deep learning, segmentation, and Kaggle-style competitions!** 🚀
-
---- 
-
-The text is identical to your original document, preserving all formatting, bullet points, and content exactly as provided.
